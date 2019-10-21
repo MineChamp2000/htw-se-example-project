@@ -12,8 +12,8 @@
 // Platzhalter
 
 .Beispiel: sortierte Liste
-1. asdasd
-2. asd
+1. asdas
+2. as
 
 .SCREENSHOT - EDITOR
 [#img01]
